@@ -12,10 +12,10 @@ const data = [
     id: 1,
     image: Portfolio1,
     title: 'React Weather App',
-    description: 'Weather app allows user to check temperature at prefered location.',
+    description: 'Weather app allows user to check temperature at preferred location.',
     techStack: 'HTML, CSS, Javascript and React.',
     github: 'https://github.com/Mohammed-Raquib/React-Weather-App',
-    demo: 'https://mohammed-raquib.github.io/React-Weather-App/'
+    demo: 'https://mraquibreactweatherapp.netlify.app/'
   },
   {
     id: 2,
@@ -49,10 +49,10 @@ const data = [
     id: 5,
     image: Portfolio5,
     title: 'Weather App',
-    description: 'Weather app allows user to check temperature, humidity and wind speed at prefered location.',
+    description: 'Weather app allows user to check temperature, humidity and wind speed at preferred location.',
     techStack: 'HTML, CSS and Javascript.',
     github: 'https://github.com/Mohammed-Raquib/Weather-App',
-    demo: 'https://mohammed-raquib.github.io/Weather-App/'
+    demo: 'https://mraquibweatherapp.netlify.app/'
   },
   {
     id: 6,

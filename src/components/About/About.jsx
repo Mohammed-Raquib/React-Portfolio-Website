@@ -18,7 +18,7 @@ const About = () => {
         <div className="about__content">
           <p className='about__content-description'>I’m passionate about software development and I’m skilled in HTML, CSS, JavaScript and React. I’m now looking for a junior dev position as I recently learned how to code by myself.</p>
         
-          <a href="#account" className='btn btn-primary about__btn'>Contact Me</a>
+          <a href="#contact" className='btn btn-primary about__btn'>Contact Me</a>
         </div>
 
 
