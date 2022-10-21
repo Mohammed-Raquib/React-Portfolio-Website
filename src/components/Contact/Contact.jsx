@@ -10,10 +10,10 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_0k4adxl', 'template_6jjnvye', form.current, '67f9C4SKlKL5wllu1')
-    .then((result) => {
+    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'your API key')
+    .then(() => {
       alert("Message Sent");
-      e.taret.reset();
+      e.target.reset();
     }, (error) => {
       console.log(error.text);
     });
